@@ -1,47 +1,43 @@
-"Header" (https://capsule-render.vercel.app/api?type=waving&color=0:08090d,50:102a43,100:00d4ff&height=190&section=header&text=ONTOLOGICAL%20CIPHER&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=Engineering%20systems.%20Exploring%20intelligence.&descAlignY=60&descSize=14)
+ONTOLOGICAL CIPHER
 
-<div align="center">Independent Builder · Computer Science · Systems & AI
+Engineering systems. Exploring intelligence.
 
-"GitHub Profile" (https://github.com/ontologicalcipher) · "Repositories" (https://github.com/ontologicalcipher?tab=repositories)
+Computer Science · Independent Development · Systems & AI
 
-</div>---
+---
 
-"whoami"
+About
 
-I build software to understand how systems work.
+I build software to understand how systems work. My interests include artificial intelligence, data infrastructure, automation, and computational astronomy.
 
-My interests span local-first tools, data infrastructure, automation, artificial intelligence, and computational astronomy.
-
-USER       ontologicalcipher
-FOCUS      Software / Systems / AI / Astronomy
-WORKFLOW   Explore -> Build -> Test -> Improve
+FOCUS    Software | Systems | AI | Astronomy
+METHOD   Explore -> Build -> Test -> Improve
 
 Projects
 
-- "TraceKit" (https://github.com/ontologicalcipher/tracekit) — OSINT and public-data discovery.
-- "ONSTAR" (https://github.com/ontologicalcipher/onstar) — Stellar data visualization.
-- "Core Directory" (https://github.com/ontologicalcipher/core-directory) — Information indexing and retrieval.
-- "Stellar Scaling Model" (https://github.com/ontologicalcipher/stellar-scaling-model) — Exploratory computational research.
-- "Nipher" (https://github.com/ontologicalcipher/nipher-) — Python development.
-- "Learning" (https://github.com/ontologicalcipher/learning) — Programming practice.
+Project| Description
+"TraceKit" (https://github.com/ontologicalcipher/tracekit)| OSINT and public-data discovery
+"ONSTAR" (https://github.com/ontologicalcipher/onstar)| Stellar data visualization
+"Core Directory" (https://github.com/ontologicalcipher/core-directory)| Information indexing and retrieval
+"Stellar Scaling Model" (https://github.com/ontologicalcipher/stellar-scaling-model)| Computational research
+"Nipher" (https://github.com/ontologicalcipher/nipher-)| Python development
+"Learning" (https://github.com/ontologicalcipher/learning)| Programming practice
 
-Toolkit
+Technology
 
-Languages: Python · JavaScript · HTML · CSS · SQL
+Languages: Python, JavaScript, HTML, CSS, SQL
 
-Tools: Git · GitHub · Linux · Termux · Flask · Node.js · SQLite
+Tools: Git, Linux, Termux, Flask, Node.js, SQLite
 
-Exploring: AI systems · Automation · Data engineering · Computational astronomy
+Interests: AI systems, automation, data engineering, computational astronomy
 
 Principles
 
 - Understand the mechanism, not just the interface.
-- Build real things and improve them through iteration.
+- Build, test, and improve real systems.
 - Separate scientific evidence from hypotheses.
-- Learn through testing and measurement.
+- Learn through experimentation.
 
 ---
 
-<div align="center">Curiosity is the input. Engineering is the process.
-
-</div>
+Curiosity is the input. Engineering is the process.
